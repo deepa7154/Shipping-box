@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: skyblue;
+}
+table 
+{
+  width:100%;
+  border-collapse: collapse;
+  margin-top:4rem;
+
+}
+th,td {
+  border: 1px,solid #ddd;
+  padding: 8px;
+}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04aa6d;
+  color:#fff;
+}
+
